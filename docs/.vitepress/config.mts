@@ -3,6 +3,7 @@ import { readFileList } from './tools/readFileList'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "web-daily",
+  base: "web-daily",
   description: "A website collects web technology",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
