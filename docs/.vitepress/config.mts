@@ -5,6 +5,9 @@ export default defineConfig({
   title: "web-daily",
   description: "A website collects web technology",
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
