@@ -1,8 +1,3 @@
----
-home: false
-footer: Made by xiangxiao3 with ❤️
----
-
 # 介绍
 
 灵感来源于 [zaobao](https://wubaiqing.github.io/zaobao/)，个人的技术收集，分享一些值得分享的内容。
