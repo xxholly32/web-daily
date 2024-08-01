@@ -24,6 +24,7 @@ export default defineConfig({
           { text: '介绍', link: '/' },
         ]
       },
+      ...readFileList("2024", "08"),
       ...readFileList("2024", "07"),
       ...readFileList("2024", "06"),
       ...readFileList("2024", "05"),
